@@ -55,7 +55,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(125, 23);
             this.button1.TabIndex = 2;
-            this.button1.Text = "Thêm Liên Hệ";
+            this.button1.Text = "Lưu";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // AddContactForm
@@ -67,7 +67,7 @@
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Name = "AddContactForm";
-            this.Text = "AddContactForm";
+            this.Text = "git ";
             this.Load += new System.EventHandler(this.AddContactForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
